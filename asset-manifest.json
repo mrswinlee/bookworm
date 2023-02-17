@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookworm/static/css/main.1000e4e7.css",
+    "main.js": "/bookworm/static/js/main.28487896.js",
+    "static/js/787.83b0abc2.chunk.js": "/bookworm/static/js/787.83b0abc2.chunk.js",
+    "index.html": "/bookworm/index.html",
+    "main.1000e4e7.css.map": "/bookworm/static/css/main.1000e4e7.css.map",
+    "main.28487896.js.map": "/bookworm/static/js/main.28487896.js.map",
+    "787.83b0abc2.chunk.js.map": "/bookworm/static/js/787.83b0abc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1000e4e7.css",
+    "static/js/main.28487896.js"
+  ]
+}
